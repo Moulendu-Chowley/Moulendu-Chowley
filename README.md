@@ -145,7 +145,7 @@ const moulenduc = {
 
 ### 💡 **"Building digital experiences that users love, one line of code at a time"**
 
-![Snake animation](https://github.com/moulendu-chowley/moulendu-chowley/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Moulendu-Chowley/Moulendu-Chowley/blob/output/github-contribution-grid-snake.svg)
 
 **⭐ Star my repositories if you find them interesting!**
 
